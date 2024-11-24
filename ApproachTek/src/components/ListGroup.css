@@ -1,0 +1,14 @@
+.full-screen {
+    height: 100vh; /* Ensure it fills the entire viewport height */
+    width: 100vw; /* Ensure it fills the entire viewport width */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white; /* Add background color to fill the white space */
+}
+
+.list-group-item {
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+
+
+.certifications {
+    margin-top: 20px;
+}
+
+.certifications h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.certifications ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.certifications li {
+    background-color: #f0f0f0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.welcome-message {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    font-family:'Consolas', sans-serif;
+}
